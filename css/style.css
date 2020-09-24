@@ -31,9 +31,21 @@ a {
 
   transform: translate(-50%,-50%);
   text-align: center;
-  
- }
 
+ }
+.banner-img h1{
+  color:rgb(181,160,105) !important;
+   font-family: 'Damion' !important;
+  letter-spacing: 5px;
+  font-size: 43px !important;
+}
+
+.banner-img h2{
+  color:#fff !important;
+  font-family: 'Blinker' !important;
+  font-size: 22px !important;
+  
+}
 .site-wrap:before {
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
