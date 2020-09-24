@@ -46,6 +46,34 @@ a {
   font-size: 22px !important;
   
 }
+
+.btn-2 {
+  background-color: rgb(181,160,105) !important;
+}
+
+.lnr-shirt {
+  color: rgb(40,0,0) !important;
+  font-size: 40px;
+  /* To get crisp results, use sizes that are
+  a multiple of 20; because Linearicons was
+  designed on a 20 by 20 grid. */
+}
+
+.lnr-earth {
+  color: rgb(40,0,0) !important;
+  font-size: 40px;
+  /* To get crisp results, use sizes that are
+  a multiple of 20; because Linearicons was
+  designed on a 20 by 20 grid. */
+}
+
+.lnr-question-circle {
+  color: rgb(40,0,0) !important;
+  font-size: 40px;
+  /* To get crisp results, use sizes that are
+  a multiple of 20; because Linearicons was
+  designed on a 20 by 20 grid. */
+}
 .site-wrap:before {
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
