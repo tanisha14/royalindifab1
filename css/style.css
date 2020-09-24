@@ -23,6 +23,11 @@ a {
 .text-black {
   color: #000; }
 
+ .container-1 .mb-2 h1{
+  font-family: 'Satisfy', cursive; 
+  color:rgb(181,160,115) !important;
+}
+
 .site-wrap:before {
   -webkit-transition: .3s all ease-in-out;
   -o-transition: .3s all ease-in-out;
