@@ -33,6 +33,54 @@ a {
   text-align: center;
 
  }
+
+ .icons-side{
+  border: 2px solid;
+  border-color: rgb(40,0,0);
+  position: fixed !important;
+  top: 30%;
+  left:0% ;
+  width:250px;
+  display : flex;
+  flex-direction: column;
+  text-align: right;
+
+
+ }
+
+ .icons-side a i{
+  margin-left: 30px;
+  background-color: #907459;
+  text-align: center;
+  margin-right: 20px;
+
+  
+
+ }
+
+ .icons-side a{
+  font-size: 22px;
+  font-family: sans-serif  !important;
+  margin: 2px;
+  border-radius:  0px 50px 50px 0px;
+ }
+
+.fas{
+  color: rgb(40,0,0) !important;
+}
+
+ .Facebook{
+  background-color: rgb(181,160,105);
+  color: rgb(40,0,0);
+ }
+  .Instagram{
+  background-color: rgb(181,160,105);
+  color: rgb(40,0,0);
+ }
+  .phone{
+  background-color: rgb(181,160,105);
+  color: rgb(40,0,0);
+ }
 .banner-img h1{
   color:rgb(181,160,105) !important;
    font-family: 'Damion' !important;
