@@ -40,6 +40,9 @@ a {
   font-size: 50px !important;
 }
 
+.py-5{
+  background-color: rgb(40,0,0);
+}
 .banner-img h2{
   color:#fff !important;
   font-family: 'Blinker' !important;
